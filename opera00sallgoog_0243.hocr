@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./opera00sallgoog_0243.png"; bbox 0 0 2888 4748; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 148 1861 996 2010">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 148 1861 996 2010">
+     <span class='ocr_line' id='line_1_1' title="bbox 148 1861 996 2010; baseline 0.005 -55"><span class='ocrx_word' id='word_1_1' title='bbox 148 1865 166 1881; x_wconf 69' lang='lat'><strong>‘·</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 361 1865 414 1958; x_wconf 79' lang='lat' dir='ltr'><strong>c,</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 444 1862 641 1958; x_wconf 81' lang='lat' dir='ltr'>CRISPI</span> <span class='ocrx_word' id='word_1_4' title='bbox 670 1861 996 2010; x_wconf 73' lang='lat' dir='ltr'>SALLUsm</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 271 2140 1403 2282">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 271 2140 1403 2282">
+     <span class='ocr_line' id='line_1_2' title="bbox 271 2140 1403 2282; baseline -0.006 -52"><span class='ocrx_word' id='word_1_5' title='bbox 271 2148 698 2231; x_wconf 87' lang='lat' dir='ltr'><strong>HISTORIARUM</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 740 2148 1086 2230; x_wconf 84' lang='lat' dir='ltr'><strong>ORATIONES</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1294 2270 1299 2282; x_wconf 29' lang='grc' dir='ltr'><strong><em>Ι</em></strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1395 2140 1403 2157; x_wconf 88' lang='grc'><em>’</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 455 2437 901 2509">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 455 2437 901 2509">
+     <span class='ocr_line' id='line_1_3' title="bbox 455 2437 901 2509; baseline 0 -1"><span class='ocrx_word' id='word_1_9' title='bbox 455 2441 522 2508; x_wconf 85' lang='lat' dir='ltr'><strong>EX</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 544 2439 640 2506; x_wconf 83' lang='lat' dir='ltr'><strong>MSS.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 663 2437 901 2509; x_wconf 79' lang='lat' dir='ltr'>VATICANO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1448 4748">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1448 4748">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1448 4748; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1448 4748; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
